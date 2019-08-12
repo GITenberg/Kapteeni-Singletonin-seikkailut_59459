@@ -1,5 +1,5 @@
 _repo: Kapteeni-Singletonin-seikkailut_59459
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Captain Singleton. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -27,6 +30,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/ebooks/author/26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59459#Kapteeni-Singletonin-seikkailut
 gutenberg_issued: '2019-05-08'
 gutenberg_type: Text
 identifiers:
