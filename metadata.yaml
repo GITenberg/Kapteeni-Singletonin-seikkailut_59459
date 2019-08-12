@@ -1,0 +1,46 @@
+_repo: Kapteeni-Singletonin-seikkailut_59459
+_version: 0.0.1
+alternative_title: Captain Singleton. Finnish
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hämeen-Anttila, V.
+    - Hameen-Anttila, Vaino
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Defoë, Daniel
+    - Defo, Daniel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/ebooks/author/26500
+description: ''
+gutenberg_issued: '2019-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59459'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Pirates -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Kapteeni Singletonin seikkailut
+url: http://www.gutenberg.org/ebooks/59459
